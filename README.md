@@ -21,13 +21,6 @@ User Receipt: Users receive the NFT certificates in their digital wallets, such 
 ### The problems faced while deploying to Polygon:
 Many issues occured while using the latest solidity version to deploy the contract on the Polygon Network. After a very long session (~5h) of trail and errors, downgrading the solidity version to ^0.8.13 (previously ^0.8.21) and changing the deployer to truffle from hardhat solved the issue.
 
-### Creators
-
-| Name            | Github                                         | Discord         |
-| --------------- | ---------------------------------------------- | --------------- |
-| Kundan Kumar | [@Kundan](https://github.com/InfiniteCoder100)   | codefunky   |
-| Harsh Shende | [@harshshen](https://github.com/Harshshen)   | harsh shende  |
-
 ## Set up Project
 Here's how to setup and run the project locally :
 
@@ -48,9 +41,7 @@ Here are the steps to be taken after that :
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/InfiniteCoder100/CertiVerse.git
-```
+
 
 2. Change directory :
 
@@ -73,5 +64,4 @@ npm run dev
   or
 yarn dev
 ````
-### License 
-MIT
+
