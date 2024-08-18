@@ -41,7 +41,9 @@ Here are the steps to be taken after that :
 
 1. Clone the repository:
 
-
+```bash
+https://github.com/yashviag/Certiverse.git
+```
 
 2. Change directory :
 
